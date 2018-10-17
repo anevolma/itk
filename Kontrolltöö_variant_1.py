@@ -47,4 +47,4 @@ def common_symbols(string, string1):
            
 common_symbols("KARP", "KRRR")
             
-    
+print("Tere!")
