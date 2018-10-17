@@ -45,6 +45,6 @@ def common_symbols(string, string1):
     vastus = result + "," + result1
     print(vastus)
            
-common_symbols("KARP", "KRRR")
+common_symbols("TAOA", "TUBA")
             
 print("Tere!")
